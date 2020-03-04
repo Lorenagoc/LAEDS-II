@@ -50,7 +50,6 @@ class Livro():
         return "\nTítulo: {titulo}\nAno: {ano}\nAutores: {autores}\n".format(titulo=self.titulo, ano=self.ano,
                                                                              autores=str1)
 
-
 class Biblioteca():
     def __init__(self):
         self.lista_livros = []
