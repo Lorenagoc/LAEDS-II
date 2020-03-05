@@ -63,7 +63,7 @@ class Livro():
 
     def __str__(self):
         str1 = ' '.join([str(elemento) for elemento in self.lista_autores])
-        return "\n******** Atributos do livro ********\nTítulo: {titulo}\nAno: {ano}\nAutores: {autores}\n".format(titulo=self.titulo, ano=self.ano,
+        return "\nTítulo: {titulo}\nAno: {ano}\nAutores: {autores}\n".format(titulo=self.titulo, ano=self.ano,
                                                                              autores=str1)
 
 #*****************************************************************************************************************
