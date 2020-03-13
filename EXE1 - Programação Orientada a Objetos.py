@@ -17,7 +17,7 @@ class Autor():
     def nome_como_citado(self):
 
         # O método >> upper() << é o responsável por deixar todas as letras da string maiúsculas
-        # A posição 0 no atributo self.primeiro_nome[0] pega a primeira letra do primeiro nome
+        # A posição 0 no atributo self.primeiro_nome[0] pega a primeira letra do primeiro nome do autor
 
         return "{ultimo_nome} {primeiro_nome}.".format(ultimo_nome=self.ultimo_nome.upper(),
                                                        primeiro_nome=self.primeiro_nome[0].upper())
