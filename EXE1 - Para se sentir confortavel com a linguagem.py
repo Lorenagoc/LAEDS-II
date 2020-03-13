@@ -47,7 +47,7 @@ def valores_iguais(lista1, lista2):
 
 def indice_prim_valor_igual(lista1,lista2):
     """
-        Retorna a posição na lista1 do primeiro valor igual ao da lista2
+        Retorna a posição da lista1 do primeiro valor igual ao da lista2
         @author: Lorena Gomes de O. Cabral
     """
 
