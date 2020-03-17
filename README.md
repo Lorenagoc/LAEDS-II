@@ -24,7 +24,7 @@ Uma tela como essa, no navegador, irá abrir
 
 # Para utilizar
 
-Você pode abrir algum arquivo no formato .ipynb, que estaja salvo no computador, navegando pelas pastas que estão no print acima. 
+Você pode abrir algum arquivo no formato .ipynb, que esteja salvo no computador, navegando pelas pastas que estão no print acima. 
 
 Ou então, você pode criar um arquivo python na própria plataforma. 
 
