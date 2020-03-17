@@ -31,3 +31,7 @@ Ou então, você pode criar um arquivo python na própria plataforma.
 Vá em ***new*** e clique em ***Python 3***
 
 ![Captura de tela de 2020-03-17 16-44-14](https://user-images.githubusercontent.com/42523044/76895339-90029100-686e-11ea-81ab-996c8d58ff1d.png)
+
+Uma interface como essa irá aparecer. Pequenos códigos ou métodos podem ser realizados nesse espaço e testados com o comando ***Ctrl + Enter***
+
+![Captura de tela de 2020-03-17 16-46-57](https://user-images.githubusercontent.com/42523044/76895522-ef60a100-686e-11ea-9de6-bbc0a361a134.png)
