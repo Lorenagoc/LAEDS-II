@@ -39,3 +39,5 @@ Uma interface como essa irá aparecer. Pequenos códigos ou métodos podem ser r
 A saída do programa aparece à esquerda na parte inferior da célula
 
 ![Captura de tela de 2020-03-17 16-53-18](https://user-images.githubusercontent.com/42523044/76895986-d1477080-686f-11ea-9af3-b5eb2e0c4239.png)
+
+Para criar uma nova célula de edição, clique no ***+*** que se encontra na parte superior, ao lado do ícone de um disquete. 
