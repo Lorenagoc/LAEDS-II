@@ -94,7 +94,7 @@ class MaxHeap:
         indice_ultimo_elemento = self.arr_heap.index(self.arr_heap[-1])
         elemento_ultima_pos = self.arr_heap.pop(indice_ultimo_elemento)
         self.arr_heap.insert(1, elemento_ultima_pos)
-        if len(self.arr_heap) > 3: #não refazer o heap se o vetor tiver apenas 3 elementos, pois a atualização feita a cima já é suficiente
+        if len(self.arr_heap) > 3: #não refazer o heap se o vetor tiver apenas 2 elementos, pois a atualização feita a cima já é suficiente
             self.refaz(1)
         return maximo
 
