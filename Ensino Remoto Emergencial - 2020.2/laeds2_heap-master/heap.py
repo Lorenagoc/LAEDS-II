@@ -51,7 +51,7 @@ class MaxHeap:
             #se a posição do filho a esquerda não for a ultima do vetor,
             #atualize, se necessario, o pos_maior_filho considerando o filho a direita
             if pos_maior_filho<self.pos_ultimo_item:
-                #### SEU CODIGO AQUI ############
+                
                 pos_filho_direita = self.direita(pos_pai)
                 filho_direita = self.arr_heap[pos_filho_direita]
                 filho_esquerda = self.arr_heap[pos_maior_filho]
