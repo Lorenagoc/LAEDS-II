@@ -116,6 +116,3 @@ def main():
 	arr_palavras = ["co", "com", "pre", "pr"]
 	for palavra in arr_palavras:
 		print(len(arvore.preditor(palavra)))
-
-if __name__ == '__main__':
-	main()
