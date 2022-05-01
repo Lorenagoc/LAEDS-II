@@ -8,7 +8,7 @@ Nessa disciplina usaremos como ferramenta de testes e criação dos códigos em 
 Basta, no terminal, inserir o código (Lembrando que toda a máquina já deve estar configurada para editar e executar programas em python)
 
 ```
-apt-get -y install ipython ipython-notebook
+pip install notebook
 ```
 
 # Para abrir
